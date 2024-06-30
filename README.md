@@ -8,5 +8,6 @@ A simple calculator built with javascript, html &amp; css	        <p>This simple
             <li><strong>Clear Functionality:</strong> Provides a clear button to reset the calculator.</li>
         </ul>
     <p align="center">
-  <img width="342" alt="Screenshot 2024-06-26 at 10 26 56 PM" src="https://github.com/wasayfaizan/javascript-calculator/assets/91233999/9d5cc8f1-68d3-4106-8717-1ca0aec72bf9">
+  <img width="364" alt="Screenshot 2024-06-29 at 9 09 10 PM" src="https://github.com/wasayfaizan/javascript-calculator/assets/91233999/c16b5a8f-28bd-4c65-9acb-b480a1ce235f">
+
   </p>    
